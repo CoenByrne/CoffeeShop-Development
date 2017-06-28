@@ -1,3 +1,0 @@
-
-
-COLLECTION = "stores"
